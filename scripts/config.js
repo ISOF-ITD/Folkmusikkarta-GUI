@@ -67,13 +67,14 @@ export default {
 	imageUrl: 'https://filemaker.isof.se/',
 	audioUrl: 'https://filemaker.isof.se/',
 
-	appUrl: 'https://frigg.isof.se/static/js-apps/folkmusikkartan/',
+	appUrl: 'https://hittafolkmusiken.isof.se',
+	// appUrl: 'https://frigg.isof.se/static/js-apps/folkmusikkartan/',
 	// For share links to users and MAYBE some image links (is last slash needed?):
 	siteUrl: 'https://www.isof.se/hittafolkmusiken/',
 
 	// Url till Django/Elasticsearch API
-	apiUrl: 'https://frigg.isof.se/sagendatabas/api/es/',
+	apiUrl: 'https://garm.isof.se/folkeservice/api/es/',
 
 	// Url till Django Rest API
-	restApiUrl: 'https://frigg.isof.se/sagendatabas/api/'
+	restApiUrl: 'https://garm.isof.se/folkeservice/api/'
 };
