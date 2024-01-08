@@ -67,7 +67,7 @@ export default {
 	imageUrl: 'https://filemaker.isof.se/',
 	audioUrl: 'https://filemaker.isof.se/',
 
-	appUrl: 'https://hittafolkmusiken.isof.se',
+	appUrl: 'https://hittafolkmusiken.isof.se/',
 	// appUrl: 'https://frigg.isof.se/static/js-apps/folkmusikkartan/',
 	// For share links to users and MAYBE some image links (is last slash needed?):
 	siteUrl: 'https://www.isof.se/hittafolkmusiken/',
